@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Tabish 👋  
 
-<!--
-**itabishalam/itabishalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student | Web Developer  
+💻 Learning JavaScript & React  
+🚀 Building **StudyBuddy – Student Dashboard**  
+🌱 Exploring AI & Prompt Engineering  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack  
+- **Languages:** JavaScript, Python, C++  
+- **Frontend:** HTML, CSS, React  
+- **Tools:** Git, GitHub, Figma, VS Code  
+
+---
+
+### 📫 Connect with me  
+[LinkedIn](https://www.linkedin.com/in/itabishalam) 
