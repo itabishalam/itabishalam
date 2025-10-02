@@ -2,7 +2,6 @@
 
 🎓 B.Tech Student | Web Developer  
 💻 Learning JavaScript & React  
-🚀 Building **StudyBuddy – Student Dashboard**  
 🌱 Exploring AI & Prompt Engineering  
 
 ---
